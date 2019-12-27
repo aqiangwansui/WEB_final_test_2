@@ -1,0 +1,65 @@
+{
+  "id": "1576940",
+  "name": "阿里云",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12438676",
+      "name": "圣诞老人",
+      "font_class": "shengdanlaoren",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "12438677",
+      "name": "圣诞花环",
+      "font_class": "shengdanhuahuan",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "12438678",
+      "name": "姜饼人",
+      "font_class": "jiangbingren",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "12438679",
+      "name": "雪花",
+      "font_class": "xuehua",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "12438681",
+      "name": "糖果",
+      "font_class": "tangguo",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "12438682",
+      "name": "手套",
+      "font_class": "shoutao",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "12438683",
+      "name": "红酒",
+      "font_class": "hongjiu",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "12438685",
+      "name": "圣诞帽",
+      "font_class": "shengdanmao",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    }
+  ]
+}
